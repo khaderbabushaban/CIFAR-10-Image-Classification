@@ -20,7 +20,6 @@ venv/
 *.pth
 saved_model/
 
-# Data & images (don't upload large datasets or test images)
 *.jpg
 *.jpeg
 *.png
