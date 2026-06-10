@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights
+*.hdf5
+*.h5
+*.pkl
+*.pt
+*.pth
+saved_model/
+
+# Data & images (don't upload large datasets or test images)
+*.jpg
+*.jpeg
+*.png
+*.gif
+data/
+datasets/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
